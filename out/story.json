@@ -1,0 +1,42 @@
+{
+  "pack_id": "story_001",
+  "title": "Celtic vs Kilmarnock",
+  "source": "../data/match_events.json",
+  "created_at": "2025-12-02T09:00:38.648Z",
+  "pages": [
+    {
+      "type": "cover",
+      "headline": "Celtic vs Kilmarnock",
+      "subheadline": "Top Highlights",
+      "image": "../assets/placeholder.png"
+    },
+    {
+      "type": "highlight",
+      "minute": 92,
+      "headline": "Goal!",
+      "caption": "Goal! Celtic 4, Kilmarnock 0. Arne Engels (Celtic) converts the penalty with a right footed shot to the bottom left corner.",
+      "image": "../assets/placeholder.png"
+    },
+    {
+      "type": "highlight",
+      "minute": 84,
+      "headline": "Goal!",
+      "caption": "Goal! Celtic 3, Kilmarnock 0. Daizen Maeda (Celtic) right footed shot from the right side of the box to the bottom right corner. Assisted by Arne Engels with a through ball.",
+      "image": "../assets/placeholder.png"
+    },
+    {
+      "type": "highlight",
+      "minute": 50,
+      "headline": "Goal!",
+      "caption": "Goal! Celtic 2, Kilmarnock 0. Kieran Tierney (Celtic) left footed shot from outside the box to the bottom right corner. Assisted by Liam Scales.",
+      "image": "../assets/placeholder.png"
+    },
+    {
+      "type": "highlight",
+      "minute": 9,
+      "headline": "Goal!",
+      "caption": "Goal! Celtic 1, Kilmarnock 0. Johnny Kenny (Celtic) left footed shot from very close range to the bottom left corner. Assisted by Reo Hatate.",
+      "image": "../assets/placeholder.png"
+    }
+  ]
+}
